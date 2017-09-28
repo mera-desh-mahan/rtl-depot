@@ -1,0 +1,58 @@
+$date
+	Thu Sep 28 14:01:20 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module forever_example $end
+$var reg 1 ! clk $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x!
+$end
+#1
+0!
+#6
+1!
+#11
+0!
+#16
+1!
+#21
+0!
+#26
+1!
+#31
+0!
+#36
+1!
+#41
+0!
+#46
+1!
+#51
+0!
+#56
+1!
+#61
+0!
+#66
+1!
+#71
+0!
+#76
+1!
+#81
+0!
+#86
+1!
+#91
+0!
+#96
+1!
+#100

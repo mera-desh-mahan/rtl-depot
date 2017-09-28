@@ -4,6 +4,7 @@
 /* the clock is displayed on the unix terminal        */
 /*----------------------------------------------------*/
 
+`timescale 1ns/1ps 
 
 module forever_example ();
 
@@ -20,6 +21,7 @@ initial begin
    $dumpfile("dump.vcd");
    $dumpvars();
 
+// the simulation runs for 100 seconds 
 #100 $finish;
 end
 
